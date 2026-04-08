@@ -5,4 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes: []
-  m_configObjects: {}
+  m_configObjects:
+    Varjo.XR.Settings: {fileID: 11400000, guid: fba30bfec88dbc54194acf66a3451ddb, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d5b6b0cf0f6e6254d9fb1dbae9180e2b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3eee67c57f03d7d4c8dd12809d328591, type: 2}
+  m_UseUCBPForAssetBundles: 0

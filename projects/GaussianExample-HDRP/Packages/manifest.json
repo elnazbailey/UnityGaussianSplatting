@@ -2,6 +2,8 @@
   "dependencies": {
     "com.unity.ide.rider": "3.0.31",
     "com.unity.render-pipelines.high-definition": "14.0.11",
+    "com.unity.xr.management": "4.5.4",
+    "com.varjo.xr": "https://github.com/varjocom/VarjoUnityXRPlugin.git",
     "org.nesnausk.gaussian-splatting": "file:../../../package",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
